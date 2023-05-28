@@ -1,4 +1,4 @@
-# [[문제번호] 문제 이름](https://www.acmicpc.net/)
+# [[문제번호] 문제 정리 템플릿](https://www.acmicpc.net/)
 
 ![1000](https://github.com/imgzon3/algorithm/assets/59475880/a07e7988-b151-472a-811b-31a0dd1462b6)
 
@@ -19,7 +19,7 @@
 ## 💻 핵심 코드
 
 ```java
-public class Template {
+public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, Template!");
     }
