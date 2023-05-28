@@ -15,6 +15,5 @@ public class Main {
         bw.write(a*(b/100) + "\n");
         bw.write(a*b + "\n");
         bw.flush();
-        bw.close();
     }
 }
