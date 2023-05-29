@@ -1,6 +1,6 @@
 # [[2588] 곱셈](https://www.acmicpc.net/problem/2588)
 
-![2588.png](img%2F2588.png)
+![1.png](img%2F1.png)
 
 ***
 

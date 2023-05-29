@@ -1,6 +1,6 @@
 # [[1000] A+B](https://www.acmicpc.net/problem/1000)
 
-![1000.png](img%2F1000.png)
+![1.png](img%2F1.png)
 
 ***
 
