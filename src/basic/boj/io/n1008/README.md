@@ -1,6 +1,6 @@
 # [[1008] A/B](https://www.acmicpc.net/)
 
-![1008.png](img%2F1008.png)
+![1.png](img%2F1.png)
 
 ***
 

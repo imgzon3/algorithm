@@ -1,6 +1,6 @@
 # [[문제번호] 문제 정리 템플릿](https://www.acmicpc.net/)
 
-![1000](https://github.com/imgzon3/algorithm/assets/59475880/a07e7988-b151-472a-811b-31a0dd1462b6)
+![1.png](basic%2Fboj%2Fio%2Fn1000%2Fimg%2F1.png)
 
 ***
 
