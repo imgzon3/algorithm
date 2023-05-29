@@ -1,4 +1,4 @@
-package basic.boj.n1000;
+package basic.boj.io.n1000;
 
 import java.io.*;
 import java.util.StringTokenizer;
