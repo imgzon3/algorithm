@@ -1,4 +1,4 @@
-package basic.boj.io.n2557;
+package basic.io.boj.n2557;
 
 import java.io.*;
 

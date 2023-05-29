@@ -1,4 +1,4 @@
-package basic.boj.ifelse.n2480;
+package basic.ifelse.boj.n2480;
 
 import java.io.*;
 import java.util.*;

@@ -1,15 +1,16 @@
-package basic.boj.io.n1000;
+package basic.io.boj.n1008;
 
 import java.io.*;
-import java.util.StringTokenizer;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
-        int a = Integer.parseInt(st.nextToken());
-        int b = Integer.parseInt(st.nextToken());
 
-        System.out.println(a+b);
+        double a = Double.parseDouble(st.nextToken());
+        double b = Double.parseDouble(st.nextToken());
+
+        System.out.println(a/b);
     }
 }
