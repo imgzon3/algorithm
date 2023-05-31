@@ -51,12 +51,15 @@
 - **BufferedWriter**
   - 출력 횟수가 많아질 경우, 실행속도가 빠른 강점을 지닌 클래스
   - ```BufferedWriter```를 사용한 후에는, 버퍼를 비우기 위해 반드시 ```flush()```혹은 ```close()```를 사용해 주자
-    ```java
-    import java.io.BufferedWriter;
-    import java.io.OutputStreamWriter;
+    - ```flush()``` 혹은 ```close()```를 사용하면 버퍼에 있던 내용이 파일에 사용된다
+    - 아래 코드의 상황에서는 터미널에 출력된다
+    - ```close()``` 사용 시 스트림이 아예 닫혀 해당 스트림을 다시 이용하여 파일에 쓰는 것이 불가능해진다
+      ```java
+      import java.io.BufferedWriter;
+      import java.io.OutputStreamWriter;
     
-    BufferedWriter bw = new BufferedWriter(new OutputStreamReader(System.out));
-    bw.write("hi");
-    bw.newLine();
-    bw.flush(); //bw.close();
-    ```
+      BufferedWriter bw = new BufferedWriter(new OutputStreamReader(System.out));
+      bw.write("hi");
+      bw.newLine();
+      bw.flush(); //bw.close();
+      ```
