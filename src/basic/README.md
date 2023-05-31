@@ -10,3 +10,6 @@
 
 ### 📁 [조건문](https://github.com/imgzon3/algorithm/tree/master/src/basic/ifelse)
 - 간단한 조건문을 사용해보는 문제 모음입니다.
+
+### 📁 [반복문](https://github.com/imgzon3/algorithm/tree/master/src/basic/loop)
+- 간단한 반복문을 사용해보는 문제 모음입니다.
