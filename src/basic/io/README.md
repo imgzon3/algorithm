@@ -63,3 +63,18 @@
       bw.newLine();
       bw.flush(); //bw.close();
       ```
+
+### 기타
+- **StringBuilder**
+  - String은 ```불변(immutable) 객체```이므로, ```+```연산자를 이용한 문자열 덧셈 시 새로운 객체를 만들어서 처리한다
+  - 따라서 변경 가능한 문자열을 만들어주는 ```StringBuilder``` 클래스를 활용해보자
+    - 객체를 만든 후 ```.append()```를 통해 문자열울 추가하자
+    - 그후, 객체를 ```.toString()```을 통해 String으로 변환하거나, 바로 출력하면 된다
+      ```java
+      StringBuilder sb = new StringBuilder();
+      sb.append("Hello").append(" String").append("Builder!");
+      String str = sb.toString();
+      
+      System.out.println(sb);
+      System.out.println(str);
+      ```
