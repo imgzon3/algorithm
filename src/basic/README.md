@@ -13,3 +13,7 @@
 
 ### 📁 [반복문](https://github.com/imgzon3/algorithm/tree/master/src/basic/loop)
 - 간단한 반복문을 사용해보는 문제 모음입니다.
+
+### 📁 [배열](https://github.com/imgzon3/algorithm/tree/master/src/basic/array)
+- 간단한 배열을 사용해 보는 문제 모음입니다.
+  - ```Collection Framework```에 대해 정리해 보았습니다.
