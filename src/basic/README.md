@@ -20,4 +20,4 @@
 
 ### 📁 [문자열](https://github.com/imgzon3/algorithm/tree/master/src/basic/string)
 - 문자열과 관련된 간단한 문제 모음입니다.
-  - ```String```, ```StringBuilder```, ```StringTokenizer```등을 활용해 봅니다.
+  - ```String```, ```StringBuilder```, ```StringTokenizer``` 등을 활용해 봅니다.
