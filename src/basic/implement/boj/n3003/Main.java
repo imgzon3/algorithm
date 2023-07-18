@@ -1,4 +1,4 @@
-package basic.implement.boj;
+package basic.implement.boj.n3003;
 
 import java.io.*;
 import java.util.*;
