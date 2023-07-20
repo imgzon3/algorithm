@@ -7,9 +7,9 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int[] alpha = new int[26];
 
-        char[] words = br.readLine().toUpperCase().toCharArray();
-        for (char word : words) {
-            alpha[word-'A']++;
+        String word = br.readLine().toUpperCase();
+        for (int i=0; i<word.length(); i++) {
+            alpha[word.charAt(i)-'A']++;
         }
 
         int result = 0;
