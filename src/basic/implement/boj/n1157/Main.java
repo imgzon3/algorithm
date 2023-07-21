@@ -30,6 +30,5 @@ public class Main {
         else {
             System.out.println((char) ('A'+result));
         }
-
     }
 }
