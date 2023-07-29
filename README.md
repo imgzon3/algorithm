@@ -4,7 +4,7 @@
 ***
 
 ### [개념 요약]()
-- 자바 코딩테스트를 위한 개념 정리 요약입니다.
+- 자바 코딩테스트를 위한 기초 개념 정리 요약입니다.
 
 ### 📁 [basic](https://github.com/imgzon3/algorithm/tree/master/src/basic)
 
