@@ -24,3 +24,6 @@
 
 ### 📁 [심화 구현](https://github.com/imgzon3/algorithm/tree/master/src/basic/implement)
 - 여러 개념으로 푸는 구현 문제 모음입니다.
+
+### 📁 [수학](https://github.com/imgzon3/algorithm/tree/master/src/basic/math)
+- 수학적 사고력 관련 문제 모음입니다.
